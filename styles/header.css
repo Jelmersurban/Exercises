@@ -53,8 +53,6 @@
 
 .profile {
   height: 32px;
-  padding-left: 4px;
-  padding-right: 4px;
 }
 
 .hamburger-menu {
@@ -143,6 +141,10 @@
 .voice-search-icon-button {
   position: relative;
   justify-content: center;
+}
+
+.notifications-container {
+    padding-right: 3px;
 }
 
 .notifications-count {
