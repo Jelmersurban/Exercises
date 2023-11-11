@@ -7,6 +7,7 @@
   width: 72px;
   position: fixed;
   padding-top: 5px;
+  display: flex;
 }
 
 .side-bar img {
