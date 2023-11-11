@@ -1,0 +1,13 @@
+body {
+  margin: 57px 0px 0px 72px;
+  font-family: Roboto, Arial;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #f9f9f9;
+}
+
+img {
+  vertical-align: middle;
+}
