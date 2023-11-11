@@ -8,7 +8,6 @@ main {
   column-gap: 8px;
   row-gap: 16px;
   padding: 20px;
-  width: 100%;
 }
 
 @media (max-width: 869px) {
