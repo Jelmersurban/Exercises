@@ -80,6 +80,7 @@ main {
 .channel-name, .video-stats {
   font-size: 12px;
   color: #606060;
+  width: 100%;
 }
 
 .video-stats {
