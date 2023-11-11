@@ -1,5 +1,6 @@
 main {
   min-height: 120vh;
+  width: 100%;
 }
 
 .video-grid {
